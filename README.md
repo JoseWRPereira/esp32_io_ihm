@@ -14,7 +14,7 @@ Kit de desenvolvimento para aplicação em aulas de eletrônica:
 	* Módulo ESP32:
 		* WiFi
 		* Bluetooth
-	
+* [Firmware](https://github.com/JoseWRPereira/esp32_io-ihm-prototipo) de teste de protótipo parcial em placa padrão.
 
 ## Hardware
 
