@@ -47,14 +47,13 @@ Kit de desenvolvimento para aplicação em aulas de eletrônica:
 
 # Montagem
 
-| nº | Componente | Valor | Quantidade | Referência |
-|:--:|:----------:|:-----:|:----------:|:----------:|
-|  1 | Resistor   | 10K   |      19    | R1,R2,R3,R4,R34,R35,R36,R37,R42,R43,R44,R45,R54,R10,R16,R22,R27,R13,R21 |
-| | | | | | 
+| nº  | Componente | Valor | Quantidade | Referência |
+|:---:|:----------:|:-----:|:----------:|:----------:|
+| 1   | Resistor   | 10K   | 19         | R1,R2,R3,R4,R34,R35,R36,R37,R42,R43,R44,R45,R54,R10,R16,R22,R27,R13,R21 |
+| 2   | Resistor   | 1K    | 1          | R48        | 
+| 3   | Resistor   | 330R  | 3          | R49,R51,R50 | 
+| 4   | Resistor   | 150R  | 2          | R52,R53 | 
 
-<!-- "24"	"1k"	"R48"	"1" -->
-<!-- "22"	"330R"	"R49,R51,R50"	"3" -->
-<!-- "25"	"150R"	"R52,R53"	"2" -->
 <!-- "19"	"100R"	"R8,R14,R19,R25"	"4" -->
 <!-- "19"	"100R"	"R11,R17,R23,R28"	"4" -->
 <!-- "20"	"180R"	"R9,R12,R15,R18,R20,R26"	"6" -->
