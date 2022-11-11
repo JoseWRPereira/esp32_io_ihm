@@ -51,16 +51,13 @@ Kit de desenvolvimento para aplicação em aulas de eletrônica:
 |:---:|:----------:|:-----:|:----------:|:----------:|
 | 1   | Resistor   | 10K   | 19         | R1,R2,R3,R4,R34,R35,R36,R37,R42,R43,R44,R45,R54,R10,R16,R22,R27,R13,R21 |
 | 2   | Resistor   | 1K    | 1          | R48        | 
-| 3   | Resistor   | 330R  | 3          | R49,R51,R50 | 
+| 3   | Resistor   | 330R  | 5          | R49,R51,R50,R24,R29 | 
 | 4   | Resistor   | 150R  | 2          | R52,R53 | 
-
-<!-- "19"	"100R"	"R8,R14,R19,R25"	"4" -->
-<!-- "19"	"100R"	"R11,R17,R23,R28"	"4" -->
-<!-- "20"	"180R"	"R9,R12,R15,R18,R20,R26"	"6" -->
-<!-- "22"	"330R"	"R24,R29"	"2" -->
-<!-- "23"	"470R"	"R30,R31,R32,R33,R38,R40,R41,R39"	"8" -->
-<!-- "26"	"0R"	"R58"	"1" -->
-<!-- "43"	"27R"	"R46,R47"	"2" -->
+| 5   | Resistor   | 100R  | 8          | R8,R14,R19,R25,R11,R17,R23,R28 |
+| 6   | Resistor   | 180R  | 6          | R9,R12,R15,R18,R20,R26 |
+| 7   | Resistor   | 470R  | 8          | R30,R31,R32,R33,R38,R40,R41,R39 |
+| 8   | Resistor   | 0R    | 1          | R58 |
+| 9   | Resistor   | 27R   | 2          | R46,R47 |
 
 <!-- "26"	"0R"	"R55,R56,R57,R59"	"5" // Não Montar - Drive de motor de passo -->
 <!-- "17"	"10K"	"R6"	"1" Potenciometro -->
