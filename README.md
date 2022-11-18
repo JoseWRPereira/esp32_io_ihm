@@ -58,21 +58,16 @@ Kit de desenvolvimento para aplicação em aulas de eletrônica:
 | 7   | Resistor   | 470R  | 8          | R30,R31,R32,R33,R38,R40,R41,R39 |
 | 8   | Resistor   | 0R    | 1          | R58 |
 | 9   | Resistor   | 27R   | 2          | R46,R47 |
-
 <!-- "26"	"0R"	"R55,R56,R57,R59"	"5" // Não Montar - Drive de motor de passo -->
 <!-- "17"	"10K"	"R6"	"1" Potenciometro -->
 <!-- "16"	"9k1"	"R5"	"1" // divisor de tensão do LCD --> 
 <!-- "18"	"760R"	"R7"	"1" // divisor de tensão do LCD -->
-
-
-
-
-<!-- "3"	"470nF"	"C2,C4,C6,C8"	"4" -->
-<!-- "6"	"ZMM55-C5V1"	"D4,D5,D6,D7,D8,D9,D10,D11"	"8" -->
-<!-- "5"	"LS4148"	"D2,D3,D_L1,D_L2,D_L3,D_L4"	"6" -->
-<!-- "15"	"LED-0805_Y"	"LED21,LED22"	"2" -->
-<!-- "15"	"LED-0805_R"	"LED17,LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8" 	"9" -->
-<!-- "15"	"LED-0805_G"	"LED9,LED10,LED11,LED12,LED13,LED14,LED15,LED16,LED18,LED19,LED20" 	"11" -->
+| 10  | Capacitor  | 470nF | 4 | C2,C4,C6,C8 |
+| 11  | Diodo Zener| ZMM55-C5V1| 8 | D4,D5,D6,D7,D8,D9,D10,D11 |
+| 12  | Diodo      | LS4148    | 6 | D2,D3,D_L1,D_L2,D_L3,D_L4 |
+| 13  | LED        | LED-0805_Y| 2 | LED21,LED22 |
+| 14  | LED        | LED-0805_R| 9 | LED17,LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8 |
+| 15  | LED        | LED-0805_G| 11 | LED9,LED10,LED11,LED12,LED13,LED14,LED15,LED16,LED18,LED19,LED20 |
 <!-- "29"	"SN74HC595DR"	"U1,U3,U21,U40"	"4" -->
 <!-- "30"	"CD74HC165M"	"U2,U33,U41"	"3" -->
 <!-- "27"	"K4-6×6_SMD"	"S1,S2,S3,S4,S5,S6,S7,S8,S9,S10,S11,S13,S14,S15,S16,S12"	"16" -->
