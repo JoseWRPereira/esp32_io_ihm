@@ -47,6 +47,12 @@ Kit de desenvolvimento para aplicação em aulas de eletrônica:
 
 # Montagem
 
+<!-- "26"	"0R"	"R55,R56,R57,R59"	"5" // Não Montar - Drive de motor de passo -->
+<!-- "17"	"10K"	"R6"	"1" Potenciometro -->
+<!-- "16"	"9k1"	"R5"	"1" // divisor de tensão do LCD --> 
+<!-- "18"	"760R"	"R7"	"1" // divisor de tensão do LCD -->
+
+
 | nº  | Componente | Valor | Quantidade | Referência |
 |:---:|:----------:|:-----:|:----------:|:----------:|
 | 1   | Resistor   | 10K   | 19         | R1,R2,R3,R4,R34,R35,R36,R37,R42,R43,R44,R45,R54,R10,R16,R22,R27,R13,R21 |
@@ -58,10 +64,6 @@ Kit de desenvolvimento para aplicação em aulas de eletrônica:
 | 7   | Resistor   | 470R  | 8          | R30,R31,R32,R33,R38,R40,R41,R39 |
 | 8   | Resistor   | 0R    | 1          | R58 |
 | 9   | Resistor   | 27R   | 2          | R46,R47 |
-<!-- "26"	"0R"	"R55,R56,R57,R59"	"5" // Não Montar - Drive de motor de passo -->
-<!-- "17"	"10K"	"R6"	"1" Potenciometro -->
-<!-- "16"	"9k1"	"R5"	"1" // divisor de tensão do LCD --> 
-<!-- "18"	"760R"	"R7"	"1" // divisor de tensão do LCD -->
 | 10  | Capacitor  | 470nF | 4 | C2,C4,C6,C8 |
 | 11  | Diodo Zener| ZMM55-C5V1| 8 | D4,D5,D6,D7,D8,D9,D10,D11 |
 | 12  | Diodo      | LS4148    | 6 | D2,D3,D_L1,D_L2,D_L3,D_L4 |
