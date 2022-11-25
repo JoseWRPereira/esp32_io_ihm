@@ -70,9 +70,10 @@ Kit de desenvolvimento para aplicação em aulas de eletrônica:
 | 13  | LED        | LED-0805_Y| 2 | LED21,LED22 |
 | 14  | LED        | LED-0805_R| 9 | LED17,LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8 |
 | 15  | LED        | LED-0805_G| 11 | LED9,LED10,LED11,LED12,LED13,LED14,LED15,LED16,LED18,LED19,LED20 |
-<!-- "29"	"SN74HC595DR"	"U1,U3,U21,U40"	"4" -->
-<!-- "30"	"CD74HC165M"	"U2,U33,U41"	"3" -->
-<!-- "27"	"K4-6×6_SMD"	"S1,S2,S3,S4,S5,S6,S7,S8,S9,S10,S11,S13,S14,S15,S16,S12"	"16" -->
+| 16  | CI         | SN74HC595DR    | 4  | U1,U3,U21,U40 |
+| 17  | CI         | CD74HC165M     | 3  | U2,U33,U41 |
+| 18  | Chave Táctil | K4-6×6_SMD   | 16 | S1,S2,S3,S4,S5,S6,S7,S8,S9,S10,S11,S13,S14,S15,S16,S12 |
+
 <!-- "38"	"AMS1117-3.3_C351784"	"U37"	"1" -->
 <!-- "2"	"47uF"	"C1,C3,C5,C7,C9,C10"	"6" *** PAD pequeno 100uF -->
 <!-- "1"	"R_3296W_US"	"RP1"	"1" -->
