@@ -51,6 +51,7 @@ Kit de desenvolvimento para aplicação em aulas de eletrônica:
 <!-- "17"	"10K"	"R6"	"1" Potenciometro -->
 <!-- "16"	"9k1"	"R5"	"1" // divisor de tensão do LCD --> 
 <!-- "18"	"760R"	"R7"	"1" // divisor de tensão do LCD -->
+<!-- "2"	"47uF"	"C1,C3,C5,C7,C9,C10"	"6" *** PAD pequeno 100uF -->
 
 
 | nº  | Componente | Valor | Quantidade | Referência |
@@ -73,15 +74,15 @@ Kit de desenvolvimento para aplicação em aulas de eletrônica:
 | 16  | CI         | SN74HC595DR    | 4  | U1,U3,U21,U40 |
 | 17  | CI         | CD74HC165M     | 3  | U2,U33,U41 |
 | 18  | Chave Táctil | K4-6×6_SMD   | 16 | S1,S2,S3,S4,S5,S6,S7,S8,S9,S10,S11,S13,S14,S15,S16,S12 |
+| 19  | Regulador de Tensão | AMS1117-3.3 | 1 | U37 |
+| 20  | Capacitor Eletrolítico | 47uF | 6 | C1,C3,C5,C7,C9,C10 |
+| 21  | Diodo  | 1N4007 | 1 | D1 |
+| 22  | Opto-acoplador | PC817 |14 | U7,U9,U10,U13,U15,U18,U22,U23,U24,U25,U26,U27,U28,U29 |
+| 23  | Transistor | BC337 | 6 | T1,T2,T3,T4,T5,T6 |
+| 24  | Opto-tiristor | MOC3061M | 2 | U17,U20 |
+| 25  | Tiristor | BT136 | 2 | Q1,Q2 |
 
-<!-- "38"	"AMS1117-3.3_C351784"	"U37"	"1" -->
-<!-- "2"	"47uF"	"C1,C3,C5,C7,C9,C10"	"6" *** PAD pequeno 100uF -->
 <!-- "1"	"R_3296W_US"	"RP1"	"1" -->
-<!-- "4"	"1N4007"	"D1"	"1" -->
-"36"	"MOC3061M"	"U17,U20"	"2"
-<!-- "33"	"PC817"	"U7,U9,U10,U13,U15,U18,U22,U23,U24,U25,U26,U27,U28,U29"	"14" -->
-<!-- "28"	"BC337"	"T1,T2,T3,T4,T5,T6"	"6" -->
-<!-- "42"	"BT136"	"Q1,Q2"	"2" -->
 <!-- "37"	"LM7805T"	"U35,U36"	"2" -->
 <!-- "44"	"USB_B"	"X1"	"1"  -->
 
